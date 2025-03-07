@@ -1,0 +1,20 @@
+from... cancer_dictionary.csv
+[data-sourcing-1.py]
+cancer related keywords description,
+
+
+from... intent_recognition_dataset.json
+[data-sourcing-2.py]
+removed some unnecessary responses, and texts.
+regular chatting texts,
+
+
+from... mental_health_conversational_data.json
+[data-sourcing-3.py]
+
+
+from... mental_health_faq.csv
+[data-sourcing-4.py]
+
+
+preprocess each pair [later]
